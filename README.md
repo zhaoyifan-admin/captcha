@@ -27,7 +27,7 @@
 | --- | --- |
 |![blockPuzzle](https://captcha.anji-plus.com/static/blockPuzzle.png "滑动拼图")&emsp;|![clickWord](https://captcha.anji-plus.com/static/clickWord.png "点选文字")|
 | 1-1 | 1-2 |
- 
+
 
 ### &emsp; 2.2 Concept Related
 | concept  | desc  |
